@@ -1,5 +1,5 @@
 # ErrorHandler
-![CI](https://github.com/FemboyTeam/ErrorHandler/workflows/CI/badge.svg?branch=master)
+![CI](https://github.com/FemboyTeam/ErrorHandler/workflows/CI/badge.svg)
 
 This library contains some small utilities intended to make PHP's E_* errors more bearable.
 
